@@ -16,8 +16,8 @@ markup:
   highlight:
     noClasses: false
 
-menu:
-  main:
+#menu:
+  #main:
     #- name: Search
     #  weight: 1
     #  params:
