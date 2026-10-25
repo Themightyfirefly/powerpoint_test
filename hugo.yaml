@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: TUNa Documentation
+title: Powerpoint stuff
 
 # import hextra as module
 module:
@@ -18,22 +18,10 @@ markup:
 
 menu:
   main:
-    - name: Search
-      weight: 1
-      params:
-      type: search
-    - name: Docs
-      pageRef: /docs
-      weight: 2
-    - name: About
-      pageRef: /about
-      weight: 3
-
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/Themightyfirefly/TUna"
-      params:
-        icon: github
+    #- name: Search
+    #  weight: 1
+    #  params:
+    #  type: search
 
 params:
   navbar:
